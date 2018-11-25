@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60841" started-at="2018-11-25T14:59:23Z" finished-at="2018-11-25T15:00:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60841" started-at="2018-11-25T14:59:23Z" finished-at="2018-11-25T15:00:24Z">
+      <class name="JumiaTestNG.LoginJumia">
+        <test-method status="PASS" signature="sanityTest()[pri:0, instance:JumiaTestNG.LoginJumia@58651fd0]" name="sanityTest" duration-ms="60766" started-at="2018-11-25T14:59:23Z" finished-at="2018-11-25T15:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sanityTest -->
+      </class> <!-- JumiaTestNG.LoginJumia -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
